@@ -1269,7 +1269,7 @@ footer {
 footer img {
     width: 10%;
 
-    height:10%
+    height:10%;
     min-width: 100px;
     margin: 5%;
 }
@@ -1315,12 +1315,12 @@ footer img {
     color: white;
     display: flex;
     list-style-type: none;
-/*     margin: -4.5em 0 0 0 !important; */
+    margin: -4.5em 0 0 0 ;
     font-family:'Trebuchet MS';
-    font-size: 0.9em !important;
-    padding: 0 20em 1.5em 25em !important;
+    font-size: 0.9em;
+    padding: 0 20em 1.5em 25em;
     justify-content: space-between;
-    text-align: center !important;
+    text-align: center;
 }
 
 .portraits{
@@ -1567,9 +1567,4 @@ hero{
 
 .sub_text{
     text-align: justify;
-}
-
-
-#home_page{
-    display: flex;
 }
