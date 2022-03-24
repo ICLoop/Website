@@ -1568,3 +1568,8 @@ hero{
 .sub_text{
     text-align: justify;
 }
+
+
+#home_page{
+    display: flex;
+}
